@@ -1,0 +1,13 @@
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.csprojAssemblyReference.cache
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.AssemblyInfoInputs.cache
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.AssemblyInfo.cs
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.exe
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.deps.json
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.runtimeconfig.json
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.runtimeconfig.dev.json
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.dll
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\bin\Debug\netcoreapp3.1\segundoPOO.pdb
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.dll
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.pdb
+C:\Users\Phellipe\Desktop\senai\c#\segundoPOO\obj\Debug\netcoreapp3.1\segundoPOO.genruntimeconfig.cache
